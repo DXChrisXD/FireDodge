@@ -1,5 +1,5 @@
-# FlappyITM
-El nombre no describe exactamente lo que es el proyecto, es solo que nació así
+# FireDodge
+Este repositorio se creó porqué tuve un problema de compatibilidad por unas razones ahí (algo que hice para salvar el proyecto)
 
 # Librería LibGDX
 Para este videojuego se utilizara la librería LibGDX
